@@ -20,7 +20,7 @@ defineProps({
 <style>
 .form-input {
   display: block;
-  /* width: 100%; */
+  width: 100%;
   padding: 0.6rem 0.75rem;
   font-size: 1rem;
   font-weight: 400;

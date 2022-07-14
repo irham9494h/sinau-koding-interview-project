@@ -1,7 +1,8 @@
 <script setup>
-import Login from "./components/auth/Login.vue";
+import { RouterLink, RouterView } from "vue-router";
+import Login from "./views/auth/Login.vue";
 </script>
 
 <template>
-  <Login />
+  <RouterView />
 </template>
